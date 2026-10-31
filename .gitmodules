@@ -1,0 +1,3 @@
+[submodule "manifesto"]
+	path = manifesto
+	url = git@github.com:logos-n-nomos/the-syntropic-manifesto.git
